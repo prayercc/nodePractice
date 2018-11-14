@@ -1,0 +1,16 @@
+{
+  "name": "ejsdemo",
+  "version": "1.0.0",
+  "description": "ejs demo",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "supervisor": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "supervisor app.js"
+  },
+  "author": "prayer",
+  "license": "ISC"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "fangexpress",
+  "version": "1.0.0",
+  "description": "仿照 express 的方式去封装nodejs",
+  "main": "app2.js",
+  "scripts": {
+    "test": "supervisor app.js"
+  },
+  "author": "prayer",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "supervisor": "^0.12.0"
+  }
+}
