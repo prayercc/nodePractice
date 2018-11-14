@@ -4,4 +4,4 @@
    - entry the folder you want
    - npm install
    - npm run dev
-   - the service are running at http://localhost:3000
+   - the service are running at http://localhost:port
