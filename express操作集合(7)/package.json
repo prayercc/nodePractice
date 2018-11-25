@@ -1,0 +1,20 @@
+{
+  "name": "expressdemo1",
+  "version": "1.0.0",
+  "description": "express demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "supervisor index.js"
+  },
+  "author": "prayer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-mongo": "^2.0.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "supervisor": "^0.12.0"
+  }
+}
