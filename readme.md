@@ -2,6 +2,4 @@
 
 ## how to use :
    - entry the folder you want
-   - npm install
-   - node app.js
-   - the service are running at http://localhost:port
+   - read README.md
