@@ -1,0 +1,20 @@
+{
+  "name": "store-by-express",
+  "version": "1.0.0",
+  "description": "use express,ejs,mongodb to set up a store system",
+  "main": "index.js",
+  "scripts": {
+    "test": "supervisor index.js"
+  },
+  "author": "prayercc",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "md5-node": "^1.0.1",
+    "mongodb": "^3.1.10",
+    "multiparty": "^4.2.1",
+    "supervisor": "^0.12.0"
+  }
+}
